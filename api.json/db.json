@@ -1,0 +1,73 @@
+{
+    "Roupas": [
+        {
+            "id": 1,
+            "descrição": "Camisa",
+            "quantidade": 87,
+            "valor": 189.9,
+            "marca": "Adidas"  
+        },
+        {
+            "id": 2,
+            "descrição": "Calça",
+            "quantidade": 32,
+            "valor": 289.9,
+            "marca": "Levi's"
+        },
+        {
+            "id": 3,
+            "descrição": "Tênis",
+            "quantidade": 14,
+            "valor": 299.9,
+            "marca": "Nike"  
+        },
+        {
+            "id": 4,
+            "descrição": "vestidos",
+            "quantidade": 67,
+            "valor": 129.9,
+            "marca": "Zara"  
+        },
+        {
+            "id": 5,
+            "descrição": "casacos",
+            "quantidade": 22,
+            "valor": 329.9,
+            "marca": "Gucci"  
+        },
+        {
+            "id": 6,
+            "descrição": "Camisas(polo)",
+            "quantidade": 57,
+            "valor": 79.9,
+            "marca": "Lacoste"  
+        },
+        {
+            "id": 7,
+            "descrição": "Gorros",
+            "quantidade": 97,
+            "valor": 29.9,
+            "marca": "Pool"  
+        }
+    ],
+    "Materia-prima": [
+        {
+            "id": 1,
+            "descrição": "tecido",
+            "quantidade": 36,
+            "classe": "primário"
+        },
+        {
+            "id": 2,
+            "descrição": "tinta",
+            "quantidade": 3,
+            "classe": "primário" 
+        },
+        {
+            "id": 1,
+            "descrição": "linha",
+            "quantidade": 43,
+            "classe": "primário" 
+        }
+    ]
+}
